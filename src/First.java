@@ -11,6 +11,8 @@ import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.Properties;
 
+/* Main class */
+
 public class First {
 
     private Connection connect = null;
